@@ -1,4 +1,4 @@
-
+let newHeader = document.createElement('')
 
 // for (let i = 0; i < 3; i++) {
 //   let li = document.createElement('li')

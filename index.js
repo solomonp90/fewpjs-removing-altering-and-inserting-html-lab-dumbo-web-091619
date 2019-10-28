@@ -1,4 +1,4 @@
-let newHeader = document.createElement('h1#victory')
+let newHeader = document.createElement('h1')
 
 // for (let i = 0; i < 3; i++) {
 //   let li = document.createElement('li')
